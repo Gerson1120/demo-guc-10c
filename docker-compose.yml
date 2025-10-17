@@ -10,5 +10,5 @@ services:
 
 networks:
   demo-networks:
-    external: true
+    external: bridge
     
