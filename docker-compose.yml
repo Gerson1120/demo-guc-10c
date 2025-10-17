@@ -10,5 +10,5 @@ services:
 
 networks:
   demo-networks:
-    driver: bridge
+    external: true
     
